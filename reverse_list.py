@@ -56,5 +56,4 @@ def main():
     print("Nodes of reversed LinkedList are: ")
     print_list(result)
 
-
 main()
